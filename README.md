@@ -1,2 +1,17 @@
-# react-d3
-Repository with chart library for react app
+# React D3
+
+## Project Setup
+
+Create new react application 
+
+```
+npx create-react-app <app-name>
+```
+
+Install D3
+
+```
+yarn add d3
+```
+
+##

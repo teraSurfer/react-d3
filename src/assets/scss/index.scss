@@ -1,0 +1,13 @@
+@import './variables';
+
+html, body {
+    padding: 0;
+}
+
+.chart-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
